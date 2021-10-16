@@ -1,0 +1,57 @@
+html,body{
+    height: 100%;
+}
+.homeContainer{
+    margin-top: 10px;
+}
+.loginEtLogout{
+    margin-bottom: 10px;
+}
+h1{
+    color: black;
+}
+
+#profil_img{
+    width:200px;
+    border-radius: 50%;    
+    display: block;  
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+#profil_img_modal{
+    width: 200px;    
+    display: block;  
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.star{
+    color:red;
+}
+
+.user_profil{
+    width: 30px;
+    border-radius: 50%;
+    
+}
+
+#images{
+    display: none;
+    
+    
+}
+
+#album{
+    display: none;
+    
+}
+
+.photo_gallerie{
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background: red;
+}
+
+
